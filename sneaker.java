@@ -51,7 +51,6 @@ public class Customer {
         System.out.println("Enter The Sneaker You'd Like to Purchase - \"1: Nike, 2: Adidas, 3: Sketchers\" ");
         int sneakerChoice = scan.nextInt();
 
-
         System.out.println("Enter How Many Pair of Sneakers You'd Like to Purchase: ");
         int quantity = scan.nextInt();
 
